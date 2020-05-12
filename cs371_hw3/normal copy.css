@@ -1,0 +1,11 @@
+/*This is the base CSS file*/
+body	{
+    background-image: url(back.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+       color: #000000;
+        
+       font-family:Constantia,
+       sans-serif;
+   
+}
